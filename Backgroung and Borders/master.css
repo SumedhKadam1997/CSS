@@ -1,0 +1,21 @@
+/*body{
+	background: url(https://static.toiimg.com/photo/72975551.cms);
+	background-repeat: no-repeat;
+}*/
+
+div{
+	background: blue;
+	border: orange;
+	border-width: 2px;
+	border-style: solid;
+}
+
+p{
+	color: yellow;
+
+}
+
+span{
+	background: red;
+	color: black; 
+}
